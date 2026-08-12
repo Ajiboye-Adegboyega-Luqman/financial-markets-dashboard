@@ -6,7 +6,7 @@ Pulling **live market data** with Python and turning it into an interactive **Po
 
 This project fetches three years of daily stock prices straight from Yahoo Finance via an API, engineers the key financial metrics in Python, and presents them in an interactive Power BI dashboard. It demonstrates the full analyst workflow: **collect live data → engineer metrics → visualise for decision-makers.**
 
-![dashboard.png.png](dashboard.png)
+![dashboard.png](dashboard.png.png)
 
 ## 🏢 Companies analysed
 
